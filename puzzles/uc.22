@@ -1,0 +1,12 @@
+0 0 0 0 0 2 5 0 0
+0 8 0 5 0 0 0 4 0
+7 0 0 0 0 0 6 0 0
+3 0 0 0 7 0 2 0 0
+0 9 1 0 8 0 0 3 0
+0 4 0 0 0 0 0 0 0
+1 5 2 0 0 4 0 0 0
+6 0 0 3 9 0 0 0 0
+0 0 0 0 0 0 0 0 0
+UNIQUE CHOICE SOLUTION SUDOKU
+N=22 nonzero elements, in 100 total generating attempts
+mean and variance estimation: E[N]=29.060000 VAR[N]=7.256400
