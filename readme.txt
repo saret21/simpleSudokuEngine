@@ -6,8 +6,7 @@ xwris options kanei solve, uparxoun tria modes, solve, check kai generate
 
 -c	mpainei se mode check
 
--i	info gia th lush, leitourgei mono se mode solve,
-	polu xrhsimo gia na katalaveis ti plhroforia krataw
+-i	info gia th lush, leitourgei mono se mode solve
 
 -u	leitourgei se mode generate, paragei unique choice sudoku, 
 	enw xwris auto to option paragei unique solution pou mporei
